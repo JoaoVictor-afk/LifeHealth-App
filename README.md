@@ -9,4 +9,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 REACT NATIVE
+<br>
 JAVASCRIPT
