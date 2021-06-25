@@ -105,7 +105,7 @@ return(
           renderItem={({item}) =>{
             return(
               <Text style={styles.ResultImcitem}>
-                  <Text style={styles.textImcitem}>Resultado do Imc=</Text>
+                  <Text style={styles.textImcitem}>Resultado do Imc= </Text>
                   {item.imc}
               </Text>
           )}
