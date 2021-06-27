@@ -1,4 +1,4 @@
-# LifeHealth-app
+# LifeHealth-App
 Um aplicativo que calcula o seu Imc.
 <br>
 Intuito da criação do aplicativo foi testar as minhas habilidades no React Native.
